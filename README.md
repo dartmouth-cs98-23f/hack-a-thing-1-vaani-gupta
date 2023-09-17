@@ -41,4 +41,4 @@ Vaani Gupta
 
 ## Acknowledgments
 
-I primarily followed Dave Gray's 9 hour React JS Full Course Tutorial (https://www.youtube.com/watch?v=RVFAyFWO4go) to complete these 4 projects (which were suggested by this tutorial). However, to get more insights on React Router, I also referenced Codr Kai's React JS URL Page Routing tutorials (https://www.youtube.com/watch?v=U7oPfhHAzLc). 
+I primarily followed Dave Gray's React JS Full Course Tutorial (https://www.youtube.com/watch?v=RVFAyFWO4go) to complete these 4 projects (which were suggested by this tutorial). However, to get more insights on React Router, I also referenced Codr Kai's React JS URL Page Routing tutorials (https://www.youtube.com/watch?v=U7oPfhHAzLc). 
