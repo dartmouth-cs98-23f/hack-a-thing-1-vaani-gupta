@@ -13,9 +13,19 @@ I first built a grocery list screen where the user can add, delete, or search fo
 
 I then built a screen where the user can type in a color and that color will be displayed in the square as seen in the screenshot. The hexcode and the color name are also titled in the square and the user can change the text color of those words using the "Toggle Text Color" button. The code for this project is in a folder titled second_tutorial. 
 
+![](Screenshots/Color_Display.png)
+
 The third project I worked on are three tables for users, posts, and comments, where this data is collected from jsonplaceholder.com. The user can switch between the three tables. The code for this project is in a folder titled third_tutorial. 
 
+![](Screenshots/Users_Display.png)
+
+![](Screenshots/Posts_Display.png)
+
 The fourth project I worked on is a React JS blog where the user can make posts, edit posts, and delete them. This blog also have an about page. The laptop icon on the top right of the screen will also change to a tablet or phone icon based on the width of the screen. With this project, I learned how to use React Router. The code for this project is in a folder titled fourth_tutorial. 
+
+![](Screenshots/React_Blog_Laptop.png)
+
+![](Screenshots/React_Blog_Tablet_Posts.png)
 
 Include some screenshots.
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
