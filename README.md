@@ -27,9 +27,6 @@ The fourth project I worked on is a React JS blog where the user can make posts,
 
 ![](Screenshots/React_Blog_Tablet_Posts.png)
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
-
 ## Who Did What?
 
 I worked on everything. I worked alone. 
